@@ -1,4 +1,3 @@
-# Android-Document-Sharing-System-Using-BlockChain
 
 # Modules
 1. Create Server (Intranet)
